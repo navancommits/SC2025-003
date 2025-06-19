@@ -9,7 +9,5 @@
 
 **To apply this patch:**
 
-- Open the Sln in VS 2022 Community Edition in admin mode
-- Once opened, for the project, create publish profile to point to your local web root folder
-- Then, publish Visual Studio project
-- Check Showconfig.aspx to find the latest configs
+Copy the provided folders into the physical directory root of your Sitecore instance.  
+This will overwrite some existing files as intended by the patch.
