@@ -1,0 +1,2 @@
+<%@ Page language="c#" Codebehind="Upload2.aspx.cs" AutoEventWireup="false" Inherits="Sitecore.Support.Shell.Applications.Dialogs.Upload.UploadPage2, Sitecore.Support.PDXP-7886" %>
+<%@ OutputCache Location="None" VaryByParam="none" %>
